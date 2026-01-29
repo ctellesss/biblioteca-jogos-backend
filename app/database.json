@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "The Witcher 3",
+        "genero": "RPG",
+        "ano": 2015
+    },
+    {
+        "nome": "God of War",
+        "genero": "Ação",
+        "ano": 2018
+    },
+    {
+        "nome": "Elden Ring",
+        "genero": "RPG",
+        "ano": 2022
+    },
+    {
+        "nome": "Hades",
+        "genero": "Roguelike",
+        "ano": 2020
+    },
+    {
+        "nome": "Celeste",
+        "genero": "Plataforma",
+        "ano": 2018
+    }
+]
