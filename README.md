@@ -93,25 +93,8 @@ Arquitetura backend básica
 
 Debug de erros reais
 
-🔮 Próximos Passos (Ideias para Evolução)
-
-🔹 Criar menu interativo no cliente C#
-
-🔹 Listar jogos via GET no C#
-
-🔹 Remover jogos via DELETE no C#
-
-🔹 Substituir JSON por SQLite ou PostgreSQL
-
-🔹 Criar validação com Pydantic
-
-🔹 Criar testes automatizados
-
-🔹 Adicionar autenticação simples
-
-🔹 Criar frontend (React / Blazor)
-
  Autor
 
 Projeto desenvolvido para estudo e prática de backend e integração entre linguagens.
+
 
